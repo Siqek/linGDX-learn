@@ -2,6 +2,8 @@
 
 A simple game created by following the [LibGDX Tutorial](https://libgdx.com/wiki/start/a-simple-game).
 
+An extended version of a game created by following the [LibGDX Simple Game Extended tutorial](https://libgdx.com/wiki/start/simple-game-extended)
+
 ## Running the Game
 
 > [!NOTE]
@@ -14,4 +16,4 @@ A simple game created by following the [LibGDX Tutorial](https://libgdx.com/wiki
 
 ### Option 2: Java JAR (Java Runtime required)
 
-1. Run [game/FirstProject-0.1.0.jar](game/FirstProject-0.1.0.jar).
+1. Run [game/FirstProject-0.2.0.jar](game/FirstProject-0.2.0.jar).
