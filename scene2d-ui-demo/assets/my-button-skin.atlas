@@ -1,0 +1,23 @@
+
+my-button-skin.png
+size: 64, 64
+format: RGBA8888
+repeat: none
+button-idle
+  rotate: false
+  xy: 1, 19
+  size: 32, 16
+  split: 0, 0, 0, 0
+  pad: 3, 3, 3, 3
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+button-pressed
+  rotate: false
+  xy: 1, 1
+  size: 32, 16
+  split: 0, 0, 0, 0
+  pad: 3, 3, 3, 3
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
